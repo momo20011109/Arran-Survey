@@ -1,0 +1,2 @@
+The data in the data folder is the raw data, and the data in the Birds, Terrestrial invertebrates and Aquatic invertebrates folders are the data that have been filtered and processed by excel.
+The Arran map in figs was created by QGIS.
