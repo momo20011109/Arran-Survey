@@ -1,5 +1,6 @@
 Findable
 Our data, metadata, and code can be found via the doi link.
+DOI: 10.5281/zenodo.10252571
 
 Accessible
 All data is publicly available and in a standardized format.
