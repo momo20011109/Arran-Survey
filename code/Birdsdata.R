@@ -1,4 +1,4 @@
-setwd("C:/Users/14681/Desktop/EcIA/Arran/data/Birds")
+setwd("C:/Users/14681/Desktop/EcIA/Arran/data/metadata/Birds")
 Birds<-read.csv("Birds_survey_comparison.csv")
 library(ggplot2)
 install.packages("stringr")

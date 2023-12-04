@@ -1,4 +1,4 @@
-setwd("C:/Users/14681/Desktop/EcIA/Arran/data/Terrestrial insert")
+setwd("C:/Users/14681/Desktop/EcIA/Arran/data/metadata/Terrestrial insert")
 Insect<-read.csv("insectquality.csv")
 library(stringr)
 #comparison of south and north(barplot)

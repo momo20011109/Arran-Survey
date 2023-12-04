@@ -1,4 +1,4 @@
-setwd("C:/Users/14681/Desktop/EcIA/Arran/data/Aquatic invertebrates")
+setwd("C:/Users/14681/Desktop/EcIA/Arran/data/metadata/Aquatic invertebrates")
 Aquatic<-read.csv("aquatic.csv")
 ##comparison of south and north(barplot)
 ggplot(data = Aquatic, aes(x = order)) +
