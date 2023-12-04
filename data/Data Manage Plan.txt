@@ -1,4 +1,4 @@
-The raw data is stored directly in the data folder and the folder set as the working path for R to calculate species biodiversity. 
+The raw data which compliant with Darwin Core  is stored directly in the data folder and the folder set as the working path for R to calculate species biodiversity. 
 The metadata folder in the data folder stores the excel-processed data containing the Birds, Terrestrial Invertebrates, Aquatic Invertebrates folders and an excel file named Arran.
 Inside metadata file are the data used to compare the number of species under the same taxon in the North and South
 The excel file named Arran contains tables used for EcIA.

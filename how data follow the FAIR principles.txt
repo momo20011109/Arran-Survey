@@ -6,7 +6,7 @@ Accessible
 All data is publicly available and in a standardized format.
 
 Interoperable
-The data follows specific open standards and can be stored in a variety of formats, including common data exchange formats. Data have been integrated into the github.
+The data follows specific open standards and can be stored in a variety of formats, compliant with Darwin Core. Data have been integrated into the github.
 
 Reusable
 All the data can be reanalyzed with the R code I uploaded, just import the raw data into the correct working directory. R code has comments that can help run
